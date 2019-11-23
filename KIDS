@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR group-title="KIDS"
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK group-title="KIDS"
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1,PT: SIC KIDS
+#EXTINF:-1,PT: SIC KIDS group-title="KIDS"
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47812.m3u8
 
-#EXTINF:-1,PT: group-title="KIDS"PANDA BIGGS
+#EXTINF:-1,PT: group-title="KIDS"PANDA BIGGS group-title="KIDS"
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47820.m3u8
 
-#EXTINF:-1,PT: group-title="KIDS"DISNEY CHANNEL
+#EXTINF:-1,PT: group-title="KIDS"DISNEY CHANNEL group-title="KIDS"
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4798.m3u8
 
-#EXTINF:-1,PT: group-title="KIDS"JIM JAM
+#EXTINF:-1,PT: group-title="KIDS"JIM JAM group-title="KIDS"
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4802.m3u8
 
-#EXTINF:-1,My Kids
+#EXTINF:-1,My Kids group-title="KIDS"
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
 #EXTINF:-1,AniPlus
