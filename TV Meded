@@ -1,0 +1,460 @@
+#EXTM3U
+#EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK group-title="KIDS"
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 group-title="KIDS",PT: SIC KIDS group-title="KIDS"
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47812.m3u8
+
+#EXTINF:-1 group-title="KIDS",PT: group-title="KIDS"PANDA BIGGS group-title="KIDS"
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47820.m3u8
+
+#EXTINF:-1 group-title="KIDS",PT: group-title="KIDS"DISNEY CHANNEL group-title="KIDS"
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4798.m3u8
+
+#EXTINF:-1 group-title="KIDS",PT: group-title="KIDS"JIM JAM group-title="KIDS"
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4802.m3u8
+
+#EXTINF:-1 group-title="KIDS",My Kids group-title="KIDS"
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+
+#EXTINF:-1 group-title="KIDS",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="KIDS",SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="KIDS",GONGMAX TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
+#EXTINF:-1 group-title="KIDS",KIDS JR
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="KIDS",TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 group-title="KIDS",STARZ KIDS & FAMILY
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/2786.ts
+
+#EXTINF:-1 group-title="KIDS",US: UNIVERSAL KIDS (SPROUT)
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4054.ts
+
+#EXTINF:-1 group-title="KIDS",LAT: DISCOVERY KIDS HD
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4702.ts
+
+#EXTINF:-1 group-title="KIDS",Stingray Music - Kids Stuff
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/5929.ts
+
+#EXTINF:-1 group-title="KIDS",USA SD: UNIVERSAL KIDS
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6048.ts
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) ADVENTURE TIME
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6053.m3u8
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) ADVENTURE TIME
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6053.ts
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) ARTHUR
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6054.m3u8
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) ARTHUR
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6054.ts
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) PINKY AND THE BRAIN
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6055.m3u8
+
+#EXTINF:-1 group-title="KIDS",24/7 | (KIDS) PINKY AND THE BRAIN
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6055.ts
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"SIC K
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23222
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"CARTOONNETWORK
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23223
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"DISNEY CHANNEL
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23224
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"DISNEY JUNIOR
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23225
+
+#EXTINF:-1 group-title="KIDS",PT: group-title="KIDS"CANAL PANDA
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23228
+
+#EXTINF:-1 group-title="KIDS",PT: group-title="KIDS"BABY TV
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23229
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"BABY FIRST
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23230
+
+#EXTINF:-1 group-title="KIDS",|PT| group-title="KIDS"JIM JAM
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23231
+
+#EXTINF:-1 group-title="KIDS",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+
+#EXTINF:-1 group-title="KIDS",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 group-title="KIDS",Atlantis. O Reino Perdido
+http://tvol.ink/iptv1/ATNTSORNOPRDO
+
+#EXTINF:-1 group-title="KIDS",O Corcunda de Notre Dame
+http://tvol.ink/iptv1/OCRCNDDNTRDM
+
+#EXTINF:-1 group-title="KIDS",Ratatouille
+http://tvol.ink/iptv1/RTATOULE
+
+#EXTINF:-1 group-title="KIDS",Toy Story3
+http://tvol.ink/iptv1/TYSTRY3
+
+#EXTINF:-1 group-title="KIDS",Carros 2
+http://tvol.ink/iptv2/CARROS2
+
+#EXTINF:-1 group-title="KIDS",Hotel Transilvânia 3. Férias Monstruosas
+http://tvol.ink/iptv2/HOTLTRNSVLNA3
+
+#EXTINF:-1 group-title="KIDS",WiFi Ralph Quebrando a internet
+http://tvol.ink/iptv2/WIFIRLPHQBRNDOAINTNET
+
+#EXTINF:-1 group-title="KIDS",Angry Birds. O Filme
+http://tvol.ink/iptv3/ANGRYBRDSFLM
+
+#EXTINF:-1 group-title="KIDS",Batman. A Máscara do Fantasma
+http://tvol.ink/iptv3/BATMAMSCRDFNTSM
+
+#EXTINF:-1 group-title="KIDS",Batman Sem Limites. Instintos Animais
+http://tvol.ink/iptv3/BATMSMLMTSINSTSANMS
+
+#EXTINF:-1 group-title="KIDS",O Bom Gigante Amigo
+http://tvol.ink/iptv3/OBMGIGNTAMG
+
+#EXTINF:-1 group-title="KIDS",Pocahontas II. Uma Jornada para o Novo Mundo
+http://tvol.ink/iptv3/PCOHNTS2UMJRNDPRONVMDO
+
+#EXTINF:-1 group-title="KIDS",Procurando Dory
+http://tvol.ink/iptv3/PRCNDRY
+
+#EXTINF:-1 group-title="KIDS",Scooby Doo! e a Maldição do 13º Fantasma
+http://tvol.ink/iptv3/SCOBYDOEAMLDCAOD13FNTSMA
+
+#EXTINF:-1 group-title="KIDS",Sing. Quem Canta Seus Males Espanta
+http://tvol.ink/iptv3/SNGQCSME
+
+#EXTINF:-1 group-title="KIDS",Space Jam. O Jogo Do Século
+http://tvol.ink/iptv3/SPCJAMOJGDSCLO
+
+#EXTINF:-1 group-title="KIDS",Tinker Bell. Uma Aventura no Mundo das Fadas
+http://tvol.ink/iptv3/TNKRBLLUMAVNTRNMNDSFDS
+
+#EXTINF:-1 group-title="KIDS",Tinker Bell. O Segredo das Fadas
+http://tvol.ink/iptv3/TNKRBLLUMAVNTROSGRDSFDS
+
+#EXTINF:-1 group-title="KIDS",Batman Ninja
+http://tvol.ink/iptv4/BTMNJA
+
+#EXTINF:-1 group-title="KIDS",LEGO NINJAGO. O Filme
+http://tvol.ink/iptv4/LEGNJGOFLM
+
+#EXTINF:-1 group-title="KIDS",Meu Malvado Favorito 2
+http://tvol.ink/iptv4/MEMLVDFAV2
+
+#EXTINF:-1 group-title="KIDS",South Park. Maior. Melhor e Sem Cortes
+http://tvol.ink/iptv4/STHPRKFILME01
+
+#EXTINF:-1 group-title="KIDS",SAT7kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+
+#EXTINF:-1 group-title="KIDS",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1 group-title="KIDS",KTV Kids
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
+
+#EXTINF:-1 group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 group-title="KIDS",A Era do Gelo: Especial de Natal
+https://lh3.googleusercontent.com/1OeKaUdB282dZ9hAPwfi-AgcFgmxSvqDuFwbO36RmV6vglpKZD1Xtr7XuBGmO-65Yjpom_SB8HU=m22
+
+#EXTINF:-1 group-title="KIDS",Mogli - O Menino Lobo (1967)
+https://lh3.googleusercontent.com/8SGxnIks_yxCJCb5rwTRjkW5cFQgpWvoGsnAKPtFZR-DHxPMyKtd0q0VaemR6Ezid13MTISF=m22
+
+#EXTINF:-1 group-title="KIDS",Alvin e os Esquilos 3
+https://lh3.googleusercontent.com/nFTSq5LVOnvYyJML2Ii56qH_0JWa_TknWWp20Rish031uiZXe4op93mHKw0lg_rzQ3j14GTaHyI=m22
+
+#EXTINF:-1 group-title="KIDS",Enrolados Para Sempre
+https://lh3.googleusercontent.com/wsxNzor2j-HSTtLWw9zVh0gMhymSUciMQhtx6QhgFFsk7_n4DuHB_k3ToG72rHYoE1mGzN4_EF1dYGYM2q1Jz9IdOxln_gWP6g=m22
+
+#EXTINF:-1 group-title="KIDS",Piratas Pirados!
+https://lh3.googleusercontent.com/WWOs9slW-G_mS9WJ-3A-K0WxzxmlTcUVwBB58h4UWrse0MLWT1ZRbWfgAIgwAJ7mxgg=m22
+
+#EXTINF:-1 group-title="KIDS",KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+
+#EXTINF:-1 group-title="KIDS",KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FOX SPORTS
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FOX SPORTS 2
+http://45.126.83.51/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FOX MOVIES ACTION
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",NHK WORLD
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",NEW ASIA CHANNEL
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",Da Vinci
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FOXlife
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FOX
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",Metro TV
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",K
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",AXN
+http://45.126.83.51/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",NATIONAL GEOGRAPHIC
+http://45.126.83.51/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",NATGEO WILD
+http://45.126.83.51/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",SONY ONE
+http://45.126.83.51/uq2663/h/h13/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",BLU ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",DIVA
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",E!
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",AL JAZEERA NEWS
+http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",CHANNEL NEWS ASIA
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",NHK WORLD
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",BLOOMBERG ASIA
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",FIGHT SPORT
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",my tv
+http://45.126.83.51/uq2663/h/h13/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",SUPER SOOCER
+http://45.126.83.51/uq2663/h/h20/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",外CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",外文DAVINCI
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",UNKNOW
+http://45.126.83.51:80/uq2663/h/h13/index1.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",ANIMAX
+http://45.126.83.51/uq2663/h/h20/index1.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+http://45.126.83.51/qwr9ew/s/s33/index1.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="Bahasa Indonesia",外CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index.m3u8
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 1 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 2 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 3 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 4 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/43
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 1 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/44
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 2 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/45
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 3 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/46
+
+#EXTINF:-1 group-title="Sport Live",|FR| CANAL+ SPORT FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 10 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/48
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 11 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/49
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 12 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/50
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 13 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/51
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 14 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/52
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT LIVE 15 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/53
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 4 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 5 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 6 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 7 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 8 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 9 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEIN SPORTS MAX 10 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/61
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 1
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 2
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 3
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/64
+
+#EXTINF:-1 group-title="Sport Live",|FR| RMC SPORT 4
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65
+
+#EXTINF:-1 group-title="Sport Live",|FR| CANAL+ FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/66
+
+#EXTINF:-1 group-title="Sport Live",|FR| CANAL+ HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/67
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 2 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 3 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
+
+#EXTINF:-1 group-title="Sport Live",|FR| CANAL+ SPORT HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70
+
+#EXTINF:-1 group-title="Sport Live",|FR| BEINSPORT 1 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
+
+#EXTINF:-1 group-title="Sport Live",|FR| canal + sd
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/74
+
+#EXTINF:-1 group-title="Sport Live",|FR|RMC.Sport4.SD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/75
+
+#EXTINF:-1 group-title="Sport Live",|FR|RMC.Sport3.SD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/76
+
+#EXTINF:-1 group-title="Sport Live",|FR|RMC.Sport2.SD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/77
+
+#EXTINF:-1 group-title="Sport Live",|FR|RMC.Sport1.SD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/78
+
+#EXTINF:-1 group-title="Sport Live",|FR|BEINSPORT 1 sd FR
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/79
+
+#EXTINF:-1 group-title="Sport Live",|FR|BEINSPORT 2 sd FR
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/80
+
+#EXTINF:-1 group-title="Sport Live",|FR|BEINSPORT 3 sd FR
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/81
+
+#EXTINF:-1 group-title="Sport Live",RMC SPORT LIVE 5
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/82
+
+#EXTINF:-1 group-title="Sport Live",RMC SPORT LIVE 6
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/83
+
+#EXTINF:-1 group-title="Sport Live",RMC SPORT LIVE 7
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/84
+
+#EXTINF:-1 group-title="Sport Live",RMC SPORT LIVE 8
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/85
+
+#EXTINF:-1 group-title="Sport Live",RMC SPORT LIVE 9
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/86
+
+#EXTINF:-1 group-title="Sport Live",equipe fhd
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/93
+
+#EXTINF:-1 group-title="Sport Live",equipe hd
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/94
+
+#EXTINF:-1 group-title="Sport Live",|FR| M6 FHD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/95
+
+#EXTINF:-1 group-title="Sport Live",|FR| M6 HD
+http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/96
