@@ -1,926 +1,342 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kids",DISNEY JUNIOR
+#EXTINF:group-title="Anak Anak",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 group-title="Kids",CARTOON NETWORK group-title="KIDS"
+#EXTINF:group-title="Anak Anak",CARTOON NETWORK group-title="KIDS"
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1 group-title="Kids",PT: SIC KIDS group-title="KIDS"
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47812.m3u8
-
-#EXTINF:-1 group-title="Kids",PT: group-title="KIDS"PANDA BIGGS group-title="KIDS"
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/47820.m3u8
-
-#EXTINF:-1 group-title="Kids",PT: group-title="KIDS"DISNEY CHANNEL group-title="KIDS"
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4798.m3u8
-
-#EXTINF:-1 group-title="Kids",PT: group-title="KIDS"JIM JAM group-title="KIDS"
-http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/4802.m3u8
-
-#EXTINF:-1 group-title="Kids",My Kids group-title="KIDS"
+#EXTINF:group-title="Anak Anak",My Kids group-title="KIDS"
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 group-title="Kids",AniPlus
+#EXTINF:group-title="Anak Anak",AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="Kids",SPACETOON
+#EXTINF:group-title="Anak Anak",SPACETOON
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
-#EXTINF:-1 group-title="Kids",ANIPLUS
+#EXTINF:group-title="Anak Anak",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="Kids",GONGMAX TV
+#EXTINF:group-title="Anak Anak",GONGMAX TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids",KIDS JR
+#EXTINF:group-title="Anak Anak",KIDS JR
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="Kids",TCT Kids
+#EXTINF:group-title="Anak Anak",TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
-#EXTINF:-1 group-title="Kids",STARZ KIDS & FAMILY
+#EXTINF:group-title="Anak Anak",STARZ KIDS & FAMILY
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/2786.ts
 
-#EXTINF:-1 group-title="Kids",US: UNIVERSAL KIDS (SPROUT)
+#EXTINF:group-title="Anak Anak",US: UNIVERSAL KIDS (SPROUT)
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4054.ts
 
-#EXTINF:-1 group-title="Kids",LAT: DISCOVERY KIDS HD
+#EXTINF:group-title="Anak Anak",LAT: DISCOVERY KIDS HD
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4702.ts
 
-#EXTINF:-1 group-title="Kids",Stingray Music - Kids Stuff
+#EXTINF:group-title="Anak Anak",Stingray Music - Kids Stuff
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/5929.ts
 
-#EXTINF:-1 group-title="Kids",USA SD: UNIVERSAL KIDS
+#EXTINF:group-title="Anak Anak",USA SD: UNIVERSAL KIDS
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6048.ts
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) ADVENTURE TIME
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) ADVENTURE TIME
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6053.m3u8
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) ADVENTURE TIME
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) ADVENTURE TIME
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6053.ts
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) ARTHUR
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) ARTHUR
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6054.m3u8
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) ARTHUR
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) ARTHUR
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6054.ts
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) PINKY AND THE BRAIN
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) PINKY AND THE BRAIN
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6055.m3u8
 
-#EXTINF:-1 group-title="Kids",24/7 | (KIDS) PINKY AND THE BRAIN
+#EXTINF:group-title="Anak Anak",24/7 | (KIDS) PINKY AND THE BRAIN
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6055.ts
 
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"SIC K
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23222
-
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"CARTOONNETWORK
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23223
-
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"DISNEY CHANNEL
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23224
-
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"DISNEY JUNIOR
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23225
-
-#EXTINF:-1 group-title="Kids",PT: group-title="KIDS"CANAL PANDA
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23228
-
-#EXTINF:-1 group-title="Kids",PT: group-title="KIDS"BABY TV
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23229
-
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"BABY FIRST
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23230
-
-#EXTINF:-1 group-title="Kids",|PT| group-title="KIDS"JIM JAM
-http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23231
-
-#EXTINF:-1 group-title="Kids",Kuriakos Kids
+#EXTINF:group-title="Anak Anak",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Kids",EBS Kids
+#EXTINF:group-title="Anak Anak",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids",EBS Kids
+#EXTINF:group-title="Anak Anak",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids",Kids TV
+#EXTINF:group-title="Anak Anak",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-
-#EXTINF:-1 group-title="Kids",SAT7kids
+#EXTINF:group-title="Anak Anak",SAT7kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
 
-#EXTINF:-1 group-title="Kids",WZra Kids TV
+#EXTINF:group-title="Anak Anak",WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
 
-#EXTINF:-1 group-title="Kids",KTV Kids
+#EXTINF:group-title="Anak Anak",KTV Kids
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
 
-#EXTINF:-1 group-title="Kids",MIAO MI
+#EXTINF:group-title="Anak Anak",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 group-title="Kids",KTV Kids
+#EXTINF:group-title="Anak Anak",KTV Kids
 https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
 
-#EXTINF:-1 group-title="Kids",KTV Kids
+#EXTINF:group-title="Anak Anak",KTV Kids
 https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FOX SPORTS
+#EXTINF:group-title="Subtitle Indonesia",FOX SPORTS
 http://45.126.83.51/uq2663/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FOX SPORTS 2
+#EXTINF:group-title="Subtitle Indonesia",FOX SPORTS 2
 http://45.126.83.51/uq2663/h/h20/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FOX MOVIES ACTION
+#EXTINF:group-title="Subtitle Indonesia",FOX MOVIES ACTION
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",NHK WORLD
+#EXTINF:group-title="Subtitle Indonesia",NHK WORLD
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",NEW ASIA CHANNEL
+#EXTINF:group-title="Subtitle Indonesia",NEW ASIA CHANNEL
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",Da Vinci
+#EXTINF:group-title="Subtitle Indonesia",Da Vinci
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FOXlife
+#EXTINF:group-title="Subtitle Indonesia",FOXlife
 http://45.126.83.51/uq2663/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FOX
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 group-title="Bahasa Indonesia",Metro TV
+#EXTINF:group-title="Subtitle Indonesia",Metro TV
 http://45.126.83.51/uq2663/h/h05/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",K
+#EXTINF:group-title="Subtitle Indonesia",K
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",AXN
+#EXTINF:group-title="Subtitle Indonesia",AXN
 http://45.126.83.51/uq2663/h/h09/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",NATIONAL GEOGRAPHIC
+#EXTINF:group-title="Subtitle Indonesia",NATIONAL GEOGRAPHIC
 http://45.126.83.51/uq2663/h/h11/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",NATGEO WILD
+#EXTINF:group-title="Subtitle Indonesia",NATGEO WILD
 http://45.126.83.51/uq2663/h/h12/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",SONY ONE
+#EXTINF:group-title="Subtitle Indonesia",SONY ONE
 http://45.126.83.51/uq2663/h/h13/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",BLU ANT EXTREME
+#EXTINF:group-title="Subtitle Indonesia",BLU ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",CINEMA WORLD
+#EXTINF:group-title="Subtitle Indonesia",CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",THRILL
+#EXTINF:group-title="Subtitle Indonesia",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",HITS
+#EXTINF:group-title="Subtitle Indonesia",HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",DIVA
+#EXTINF:group-title="Subtitle Indonesia",DIVA
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",E!
+#EXTINF:group-title="Subtitle Indonesia",E!
 http://45.126.83.51/uq2663/h/h10/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",AL JAZEERA NEWS
+#EXTINF:group-title="Subtitle Indonesia",AL JAZEERA NEWS
 http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",CHANNEL NEWS ASIA
+#EXTINF:group-title="Subtitle Indonesia",CHANNEL NEWS ASIA
 http://45.126.83.51/uq2663/h/h29/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",NHK WORLD
+#EXTINF:group-title="Subtitle Indonesia",NHK WORLD
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",BLOOMBERG ASIA
+#EXTINF:group-title="Subtitle Indonesia",BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",FIGHT SPORT
+#EXTINF:group-title="Subtitle Indonesia",FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",my tv
+#EXTINF:group-title="Subtitle Indonesia",my tv
 http://45.126.83.51/uq2663/h/h13/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",SUPER SOOCER
+#EXTINF:group-title="Subtitle Indonesia",SUPER SOOCER
 http://45.126.83.51/uq2663/h/h20/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+#EXTINF:group-title="Subtitle Indonesia",CELESTIAL MOVIES ID
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",外CGTN DOCUMENTARY
+#EXTINF:group-title="Subtitle Indonesia",外CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",外文DAVINCI
+#EXTINF:group-title="Subtitle Indonesia",外文DAVINCI
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",UNKNOW
+#EXTINF:group-title="Subtitle Indonesia",UNKNOW
 http://45.126.83.51:80/uq2663/h/h13/index1.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",ANIMAX
+#EXTINF:group-title="Subtitle Indonesia",ANIMAX
 http://45.126.83.51/uq2663/h/h20/index1.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+#EXTINF:group-title="Subtitle Indonesia",CELESTIAL MOVIES ID
 http://45.126.83.51/qwr9ew/s/s33/index1.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",CELESTIAL MOVIES ID
+#EXTINF:group-title="Subtitle Indonesia",CELESTIAL MOVIES ID
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 group-title="Bahasa Indonesia",外CGTN DOCUMENTARY
+#EXTINF:group-title="Subtitle Indonesia",外CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index.m3u8
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 1 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 1 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 2 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 2 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 3 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 3 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 4 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 4 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/43
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 1 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 1 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/44
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 2 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 2 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/45
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 3 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 3 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/46
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| CANAL+ SPORT FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| CANAL+ SPORT FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 10 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/48
-
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 11 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT LIVE 11 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/49
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 12 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT LIVE 12 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/50
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 13 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT LIVE 13 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/51
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 14 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/52
-
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT LIVE 15 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT LIVE 15 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/53
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 4 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 4 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 5 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 5 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 6 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 6 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 7 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 7 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 8 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 8 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 9 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 9 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEIN SPORTS MAX 10 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEIN SPORTS MAX 10 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/61
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 1
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 1
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 2
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 2
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 3
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 3
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/64
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| RMC SPORT 4
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| RMC SPORT 4
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| CANAL+ FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| CANAL+ FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/66
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| CANAL+ HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| CANAL+ HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/67
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 2 HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 2 HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 3 HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 3 HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| CANAL+ SPORT HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| CANAL+ SPORT HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| BEINSPORT 1 HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| BEINSPORT 1 HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| canal + sd
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| canal + sd
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/74
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|RMC.Sport4.SD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|RMC.Sport4.SD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/75
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|RMC.Sport3.SD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|RMC.Sport3.SD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/76
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|RMC.Sport2.SD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|RMC.Sport2.SD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/77
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|RMC.Sport1.SD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|RMC.Sport1.SD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/78
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|BEINSPORT 1 sd FR
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|BEINSPORT 1 sd FR
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/79
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|BEINSPORT 2 sd FR
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|BEINSPORT 2 sd FR
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/80
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR|BEINSPORT 3 sd FR
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR|BEINSPORT 3 sd FR
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/81
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",RMC SPORT LIVE 5
+#EXTINF:group-title="Siaran Langsung Olahraga",RMC SPORT LIVE 5
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/82
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",RMC SPORT LIVE 6
+#EXTINF:group-title="Siaran Langsung Olahraga",RMC SPORT LIVE 6
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/83
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",RMC SPORT LIVE 7
+#EXTINF:group-title="Siaran Langsung Olahraga",RMC SPORT LIVE 7
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/84
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",RMC SPORT LIVE 8
+#EXTINF:group-title="Siaran Langsung Olahraga",RMC SPORT LIVE 8
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/85
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",RMC SPORT LIVE 9
+#EXTINF:group-title="Siaran Langsung Olahraga",RMC SPORT LIVE 9
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/86
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",equipe fhd
+#EXTINF:group-title="Siaran Langsung Olahraga",equipe fhd
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/93
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",equipe hd
+#EXTINF:group-title="Siaran Langsung Olahraga",equipe hd
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/94
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| M6 FHD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| M6 FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/95
 
-#EXTINF:-1 group-title="Siaran Langsung Olah raga",|FR| M6 HD
+#EXTINF:group-title="Siaran Langsung Olahraga",|FR| M6 HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/96
 
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR
-http://zaman-now.com/﻿ztvz﻿/Indosiar
-
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR 2
-http://zaman-now.com/﻿ztvz﻿/Indosiar_2
-
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR
+#EXTINF:group-title="Subtitle Indonesia",INDOSIAR
 http://rr2.dens.tv/s/s04/index2.m3u8
 
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR LIGA SHOPEE
+#EXTINF:group-title="Subtitle Indonesia",INDOSIAR LIGA SHOPEE
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR
+#EXTINF:group-title="Subtitle Indonesia",INDOSIAR
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:group-title="Bahasa Indonesia",INDOSIAR
+#EXTINF:group-title="Subtitle Indonesia",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTM3U
-#EXTINF:group-title="XXX Dewasa",PLAYBOY TV
-http://188.127.169.63:8000/play/a04l
-
-#EXTINF:group-title="XXX Dewasa",XXX: 01
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6058
-
-#EXTINF:group-title="XXX Dewasa",XXX: 02
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6059
-
-#EXTINF:group-title="XXX Dewasa",XXX: 03
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6060
-
-#EXTINF:group-title="XXX Dewasa",XXX: Ast TV 2 Full HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2041
-
-#EXTINF:group-title="XXX Dewasa",XXX: Ast TV 2 HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2043
-
-#EXTINF:group-title="XXX Dewasa",XXX: Ast TV Full HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2039
-
-#EXTINF:group-title="XXX Dewasa",XXX: Ast TV HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2040
-
-#EXTINF:group-title="XXX Dewasa",XXX: Babestation24
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2044
-
-#EXTINF:group-title="XXX Dewasa",XXX: Blue hustler
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6064
-
-#EXTINF:group-title="XXX Dewasa",XXX: Brazzers
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6061
-
-#EXTINF:group-title="XXX Dewasa",XXX: Brazzers Europe
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6062
-
-#EXTINF:group-title="XXX Dewasa",XXX: EROX
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6066
-
-#EXTINF:group-title="XXX Dewasa",XXX: Evil Angel
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6065
-
-#EXTINF:group-title="XXX Dewasa",XXX: Hustler HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6068
-
-#EXTINF:group-title="XXX Dewasa",XXX: Jasmin
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6067
-
-#EXTINF:group-title="XXX Dewasa",XXX: Jasmin TV HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2045
-
-#EXTINF:group-title="XXX Dewasa",XXX: Penthouse  Gold HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6069
-
-#EXTINF:group-title="XXX Dewasa",XXX: PinkO
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6070
-
-#EXTINF:group-title="XXX Dewasa",XXX: PlayBoy Dorcel
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6071
-
-#EXTINF:group-title="XXX Dewasa",XXX: Playboy Full HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/1643
-
-#EXTINF:group-title="XXX Dewasa",XXX: Private 01
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6072
-
-#EXTINF:group-title="XXX Dewasa",XXX: Private 02
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6073
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Big Ass HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2049
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Big Dick HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2050
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Big Tits HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2051
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Blowjob HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2052
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Cuckold HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2053
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Fetish HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2054
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Hardcore HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2055
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Interracial HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2056
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Latina HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2057
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Lesbian HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2058
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic MILF HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2059
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Pornstar HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2060
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic POV HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2061
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Russian HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2062
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Teen HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2063
-
-#EXTINF:group-title="XXX Dewasa",XXX: RedTraffic Threesome HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2064
-
-#EXTINF:group-title="XXX Dewasa",XXX: Sext & Senso
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6076
-
-#EXTINF:group-title="XXX Dewasa",XXX: Sextreme
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6075
-
-#EXTINF:group-title="XXX Dewasa",XXX: Venus
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6077
-
-#EXTINF:group-title="XXX Dewasa",XXX: Visit-X TV HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/2066
-
-#EXTINF:group-title="XXX Dewasa",XXX: Vivid Red
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6078
-
-#EXTINF:group-title="XXX Dewasa",XXX: X1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6079
-
-#EXTINF:group-title="XXX Dewasa",XXX: XXL
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/6080
-
-#EXTINF:group-title="XXX Dewasa",XXX:A1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7659
-
-#EXTINF:group-title="XXX Dewasa",XXX:A2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7658
-
-#EXTINF:group-title="XXX Dewasa",XXX:A3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7657
-
-#EXTINF:group-title="XXX Dewasa",XXX:A4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7656
-
-#EXTINF:group-title="XXX Dewasa",XXX:A5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7655
-
-#EXTINF:group-title="XXX Dewasa",XXX:A6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7654
-
-#EXTINF:group-title="XXX Dewasa",XXX:B1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7653
-
-#EXTINF:group-title="XXX Dewasa",XXX:B2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7652
-
-#EXTINF:group-title="XXX Dewasa",XXX:B3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7651
-
-#EXTINF:group-title="XXX Dewasa",XXX:B4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7650
-
-#EXTINF:group-title="XXX Dewasa",XXX:B5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7649
-
-#EXTINF:group-title="XXX Dewasa",XXX:B6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7648
-
-#EXTINF:group-title="XXX Dewasa",XXX:BALKAN EROTIC
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7709
-
-#EXTINF:group-title="XXX Dewasa",XXX:BARELY
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7679
-
-#EXTINF:group-title="XXX Dewasa",XXX:BLUE HUSTLER
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7576
-
-#EXTINF:group-title="XXX Dewasa",XXX:BRAZZERS TV
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7577
-
-#EXTINF:group-title="XXX Dewasa",XXX:BRAZZERS TV EUROPE
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7677
-
-#EXTINF:group-title="XXX Dewasa",XXX:DORCEL HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7678
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7606
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7605
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7604
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7603
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7602
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_1 LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7601
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7612
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7611
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7610
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7609
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7608
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_2 LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7607
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_3 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7613
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7618
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7617
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7616
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7615
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7614
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_4 LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7673
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_5 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7624
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_5 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7622
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_5 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7623
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_5 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7621
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_5 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7620
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7631
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7630
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7629
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7628
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7627
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_6 LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7626
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7637
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7636
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7635
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7634
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7633
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROTIC_7 LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7632
-
-#EXTINF:group-title="XXX Dewasa",XXX:EROX HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7680
-
-#EXTINF:group-title="XXX Dewasa",XXX:EVIL ANGEL HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7699
-
-#EXTINF:group-title="XXX Dewasa",XXX:HD PLAYBOY 1920
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7580
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7642
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA10
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7643
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7641
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7640
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7639
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7638
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7647
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA7
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7646
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA8
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7645
-
-#EXTINF:group-title="XXX Dewasa",XXX:HOT_LA9
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7644
-
-#EXTINF:group-title="XXX Dewasa",XXX:HUSTLER HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7681
-
-#EXTINF:group-title="XXX Dewasa",XXX:HUSTLER TV
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7682
-
-#EXTINF:group-title="XXX Dewasa",XXX:JASMIN TV
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7683
-
-#EXTINF:group-title="XXX Dewasa",XXX:PASSIE XXX HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7698
-
-#EXTINF:group-title="XXX Dewasa",XXX:PENTHOUSE GOLD HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7684
-
-#EXTINF:group-title="XXX Dewasa",XXX:PENTHOUSE HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7697
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7701
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7702
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7703
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7704
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7705
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7706
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 7
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7707
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK EROTIC 8
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7708
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINK O TV
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7685
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7597
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA10
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7599
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7578
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7596
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7595
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7594
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7593
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA7
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7579
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA8
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7592
-
-#EXTINF:group-title="XXX Dewasa",XXX:PINKO_LA9
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7600
-
-#EXTINF:group-title="XXX Dewasa",XXX:PLAYBOY
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7686
-
-#EXTINF:group-title="XXX Dewasa",XXX:PLAYBOY
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7575
-
-#EXTINF:group-title="XXX Dewasa",XXX:PLAYBOY EUROPE
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7687
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE TV HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7688
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA10
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7664
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA11
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7663
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA12
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7662
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA13
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7661
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA14
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7660
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7672
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7671
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7670
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7669
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7668
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA7
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7667
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA8
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7666
-
-#EXTINF:group-title="XXX Dewasa",XXX:PRIVATE_LA9
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7665
-
-#EXTINF:group-title="XXX Dewasa",XXX:REALITY KINGS
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7700
-
-#EXTINF:group-title="XXX Dewasa",XXX:SCT CLASSIC
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7690
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXT & SENSO
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7691
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7692
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7586
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7585
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7584
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7696
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7583
-
-#EXTINF:group-title="XXX Dewasa",XXX:SEXTREME_LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7582
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS TV
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7694
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA1
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7591
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA2
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7590
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA3
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7589
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA4
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7588
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA5
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7587
-
-#EXTINF:group-title="XXX Dewasa",XXX:VENUS_LA6
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7598
-
-#EXTINF:group-title="XXX Dewasa",XXX:VIVID RED HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7695
-
-#EXTINF:group-title="XXX Dewasa",XXX:X1 ( 18)
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7674
-
-#EXTINF:group-title="XXX Dewasa",XXX:XXL
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7676
-
-#EXTINF:group-title="XXX Dewasa",XXX:XY MIXX HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7675
-
-#EXTINF:group-title="XXX Dewasa",XXX:XY PLUS HD
-http://live.iptv.wtf:80/Zn3UgNxZq77/6qYGad7c50/7581
