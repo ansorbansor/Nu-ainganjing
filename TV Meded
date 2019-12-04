@@ -1039,3 +1039,61 @@ http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6327.ts
 #EXTINF:-1,XXX: PANDORA PINK (ASIAN) | SD
 http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6328.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 group-title="ADULT Premium Pro",PLAYBOY TV
+http://188.127.169.63:8000/play/a04l
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Blue Hustler (24:00-04:00)
+http://212.12.194.10/hustler/live.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Blue Hustler 18+
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/1064/index.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Blue Hustler HD
+http://213.234.9.46:7088/udp/239.1.13.5:1234
+
+#EXTINF:-1 group-title="ADULT Premium Pro",(18 )-Hustler TV
+http://rebelx.one:8900/Maria/Maria/1840
+
+#EXTINF:-1 group-title="ADULT Premium Pro",(18 )-Hustler HD
+http://rebelx.one:8900/Maria/Maria/1841
+
+#EXTINF:-1 group-title="ADULT Premium Pro",(18 )-Blue Hustler
+http://rebelx.one:8900/Maria/Maria/1865
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Sextreme
+http://sv1.iptvcasa.online:25461/live/052559/052559/3719.ts
+
+#EXTINF:-1 group-title="ADULT Premium Pro",XXX - Sextreme SD
+http://sv1.iptvcasa.online:25461/live/052559/052559/4962.ts
+
+#EXTINF:-1 group-title="ADULT Premium Pro",(18 )-Sextreme
+http://rebelx.one:8900/Maria/Maria/1800
+
+#EXTINF:-1 group-title="ADULT Premium Pro",DJIng Ibiza HD
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Ibiza Global Tv SD
+http://rebelx.one:8900/zXbKGf0gvM/h1W7qUXnor/380
+
+#EXTINF:-1 group-title="ADULT Premium Pro",RANGGA - Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Ibiza Global Tv SD
+http://rebelx.one:8900/Maria/Maria/380
+
+#EXTINF:-1 group-title="ADULT Premium Pro",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="ADULT Premium Pro",XXX: NYX (ASIAN) | SD
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6327.ts
+
+#EXTINF:-1 group-title="ADULT Premium Pro",XXX: PANDORA PINK (ASIAN) | SD
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/6328.m3u8
+
+
+
